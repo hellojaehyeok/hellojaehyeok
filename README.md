@@ -1,7 +1,5 @@
 ### Hi 👋
 안녕하세요!       
-블로그 시작했습니다!!!       
-https://hellojaehyeok.github.io/
 
 ### Skills ⚡
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
